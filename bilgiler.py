@@ -29,3 +29,5 @@ print("hello")
 # orada istediğin tasarımda oluşturabilirsin. sonra bunu proje dosyasına kaydet. 
 # Form -> Preview bas, tasarımı görürsün.
 # Yaptığın tasarımı python kodunu görmek için: Form -> View PythonCode a bas. kodları alıp projeye ekleyebilirsin.
+
+# Kodları yazdıktan sonra rpcontacst.py ye gelip çalıştırmayı yapıyoruz.
